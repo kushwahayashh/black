@@ -29,9 +29,9 @@ interface GenerationResults {
 }
 
 const THUMBNAIL_OPTIONS: ThumbnailOptions = {
-  width: 1280,
-  height: 720,
-  quality: 95,
+  width: 1920,
+  height: 1080,
+  quality: 100,
   timeOffset: '00:00:10'
 };
 
